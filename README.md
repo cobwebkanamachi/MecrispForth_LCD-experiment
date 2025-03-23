@@ -19,5 +19,10 @@ wait paste all done, then type these
 LCD_init
 LCD_hello
 Voila, you would see strings on LCD!
+
+Notice on https://github.com/SvenMb/MecrispForth_LCD
+if you use same LCD i used (https://akizukidenshi.com/catalog/g/g100038/), original wiring changed 1 point.
+LCD's R/W pin (pin is 5) would be connect to GND. If you did not this, LCD display nothing.
+
 Enjoy!
 </PRE>
