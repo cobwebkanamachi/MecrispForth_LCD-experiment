@@ -2,8 +2,6 @@
 clone of https://github.com/SvenMb/MecrispForth_LCD and mixture of https://github.com/JohnOH/embello/blob/master/explore/1608-forth/flib/stm32f1/io.fs
 This is an implementation and experiment at my hand.
 working:<BR>
-<img src="https://github.com/cobwebkanamachi/MecrispForth_LCD-experiment/blob/main/worked-lcd1.jpg"><BR>
-<img src="https://github.com/cobwebkanamachi/MecrispForth_LCD-experiment/blob/main/worked-lcd2.jpg"><BR>
 <img src="https://github.com/cobwebkanamachi/MecrispForth_LCD-experiment/blob/main/worked1.png"><BR>
 <img src="https://github.com/cobwebkanamachi/MecrispForth_LCD-experiment/blob/main/worked2.png"><BR>
 <img src="https://github.com/cobwebkanamachi/MecrispForth_LCD-experiment/blob/main/worked3.png"><BR>
